@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Logic.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Logic.SchDoc|FileName=Ports_and_pins.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Logic.SchDoc|FileName=Power.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Logic.SchDoc|FileName=PWM.SchDoc|SheetNumber=1
